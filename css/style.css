@@ -11,6 +11,7 @@
 /**** 网页底部 *****/
 .foot{
 	height:50px;
+	width:1000px;
 	position:relative;
 }
 
@@ -228,32 +229,316 @@
 /*start ******** introduce.html*/
 
 #in_main{
-	height:2980px;
+	height:3100px;
 	width:1000px;
 	background-color:#0A3E6D;
 	margin:auto;
+	position:relative;
+}
+
+#in_content{
+	height:3050px;
+	width:1000px;
 }
 
 #in_head{
-	height:718px;
+	height:500px;
 	width:1000px;
 	background-image:url(../img/introduce_bg.png);
 }
 
-#in_content{
-	height:2212px;
-	width:1000px;
-}
-
-#in_con_1{
-	height:1263px;
+#in_con1{
+	height:1330px;
 	width:800px;
-	background-color:#999;
+	background-color:#0A3E6D;
 	margin:auto;
+	position:relative;
+	top:-120px;
+	border-style:solid; 
+	border-width:1px;
+	border-color:#666;
 }
 
-#in_con_2{
+#in_con1_head{
+	height:320px;
+	position:relative;
+}
+
+#in_con1_head_left{
+	width:240px;
+	height:320px;
+	float:left;
+}
+
+#in_con1_head_left h2{
+	position:relative;
+	top:40px;
+	left:25px;
+	color:#FFF;
+}
+
+#in_con1_head_left img{
+	height:200px;
+	width:200px;
+	position:relative;
+	left:20px;
+	top:50px;
+}
+
+#in_con1_head_right{
+	width:560px;
+	heigth:320px;
+	float:right;
+}
+
+#in_con1_head_right p{
+	width:530px;
+	color:#FFF;
+	font-family:黑体;
+	position:relative;
+	top:80px;
+	font-size:16px;
+}
+
+#in_con1_pic1{
+	height:300px;
+	width:800px;
+	position:relative;
+}
+
+#in_con1_pic1 img{
+	width:500px;
+	height:300px;
+	position:absolute;
+	right:150px;
+}
+
+#in_con1_text{
+	height:80px;
+	position:relative;
+}
+
+#in_con1_text p{
+	width:730px;
+	position:absolute;
+	left:35px;
+	top:15px;
+	font-size:16px;
+	font-family:黑体;
+	color:#FFF;
+}
+
+#in_con1_pic2{
+	height:320px;
+	position:relative;
+}
+
+#in_con1_pic2 img{
+	width:500px;
+	height:300px;
+	position:absolute;
+	right:150px;
+}
+
+#in_con1_pic3{
+	height:320px;
+	position:relative;
+}
+
+#in_con1_pic3 img{
+	width:500px;
+	height:300px;
+	position:absolute;
+	right:150px;
+}
+
+/*****上方*****/
+
+#in_con2{
+	height:1280px;
+	width:800px;
+	background-color:#0A3E6D;
+	margin:auto;
+	position:relative;
+	top:-80px;
+	border-style:solid; 
+	border-width:1px;
+	border-color:#666;
+}
+
+#in_con2_head{
+	heigth:300px;
+	width:800px;
+	position:relative;
+}
+
+#in_con2_head_left
+{
+	width:540px;
+	height:300px;
+	float:left;
+	position:relative;
+}
+
+#in_con2_head_left h2{
+	position:relative;
+	width:300px;
+	top:30px;
+	left:20px;
+	color:#FFF;
+}
+
+#in_con2_head_left p{
+	width:440px;
+	position:absolute;
+	top:70px;
+	left:80px;
+	color:#FFF;
+	font-size:16px;
+	font-family:黑体;
+}
+
+#in_con2_head_right{
+	width:260px;
+	heigth:300px;
+	position:relative;
+	float:right;
+}
+
+#in_con2_head_right img{
+	width:200px;
+	height:200px;
+	position:absolute;
+	top:80px;
+	left:30px;
+}
+
+#in_con2_text1{
+	clear:both;
+	height:70px;
+	width:800px;
+	position:relative;
+}
+
+#in_con2_text1 p{
+	width:700px;
+	position:relative;
+	left:50px;
+	font-size:16px;
+	font-family:黑体;
+	color:#FFF;
+}
+
+#in_con2_pic1{
+	height:400px;
+	width:800px;
+	position:relative;
+}
+
+#in_con2_pic1 img{
+	width:650px;
+	height:370px;
+	position:relative;
+	top:10px;
+	left:75px;
+}
+
+#in_con2_text2{
+	height:150px;
+	width:800px;
+	position:relative;
+}
+
+#in_con2_text2 p{
+	width:700px;
+	position:relative;
+	left:50px;
+	top:10px;
+	color:#FFF;
+	font-size:16px;
+	font-family:黑体;
+}
+
+#in_con2_text2 a{
+	position:absolute;
+	bottom:30px;
+	right:60px;
+}
+
+#in_con2_pic2{
+	heigth:3600px;
+	width:800px;
+	position:relative;
+}
+
+#in_con2_pic2 img{
+	height:320px;
+	width:580px;
+	position:relative;
+	left:110px;
+}
+
+#in_foot{
+	height:50px;
+	width:1000px;
+	position:relative;
+}
+
+#in_foot_help{
+	font-size:15px;
+	position:absolute;
+	bottom:1px;
+	left:350px;
+	color:#FFF;
+	filter: Alpha(Opacity=60);
 }
 
 
 /*end ******** introduce.html*/
+
+
+
+
+/*start**************matterhorn.html*/
+#mat_main{
+	height:2780px;
+	width:1000px;
+	background-image:url(../img/matterhorn_main.jpg);
+	position:relative;
+	margin:auto;
+}
+
+#mat_top{
+	height:2730px;
+	width:1000px;
+}
+
+#mat_content{
+	height:2370px;
+	width:800px;
+	background-color:#FFFEFC;
+	position:absolute;
+	left:100px;
+	top:300px;
+	border-style:solid;
+	border-width:1px;
+	border-color:#666;
+}
+
+#mat_foot{
+	height:50px;
+	width:1000px;
+	position:relative;
+}
+
+#mat_foot_help{
+	font-size:15px;
+	position:absolute;
+	bottom:1px;
+	left:350px;
+	color:#000;
+	filter: Alpha(Opacity=60);
+}
+
+
+/*end**************matterhorn.html*/

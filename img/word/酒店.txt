@@ -1,0 +1,76 @@
+H  3320
+
+
+图片大小  
+左图一 80*80
+右图一 20*20
+中间FLASH   W700 H360
+右图 100*100
+酒店介绍 周边 服务 留言 图标： 50*50
+服务设施：图一 W 640 H 80
+	    二 W 640 H 95
+	    三 W 640 H 85
+	    四 W 640 H 110
+            五 W 640 H 50           
+            六 W 640 H 40
+小提示 30*30
+最后右下角 W90 H30
+
+1	215
+2	360
+3	160
+4	255
+5	325
+6	770
+7	145
+8	220
+9	290
+10	90
+
+
+
+内容：
+Schlosshotel（城堡酒店）
+Bahnhofplatz 18, 3920 采尔马特, 瑞士        显示地图
+我们为您精心挑选了1家好评最高的酒店，如有其它需要请点击这里...
+两大亮点：
+*设施不错，有游泳池和按摩池，房间里可以看到马特洪峰，早上还看到了日照金山，很震撼！
+*地点很好，离火车站近，网络也很好，房间也很漂亮。
+酒店介绍：
+四星级的Schlosshotel酒店位于一条安静的街道上，距离Gornergratbahn Train Station火车站、采尔马特火车（Zermatt Train Station）站和班霍夫大街主街（Bahnhofstrasse Main Street）有50米，在2012年夏天进行了翻修，提供高山风格的氛围及典雅的木制家具，还提供免费无线网络连接和一个带游泳池的Spa区。
+
+开往Klein Matterhorn Ski Area滑雪区的滑雪巴士就在酒店外面。步行不远便可抵达 Sunnegga Cable Car缆车。采尔马特的众多商店和餐馆都距离Schlosshotel酒店都只有几步之遥。
+酒店周边:
+便利店/超市：                  Coop (0.1 km)
+
+餐厅：                             0.1 km
+
+咖啡馆/酒吧：                  0.1 km
+
+山川：                             Gornergrat station (0.1 km)
+
+河流：                             Vispa (0.2 km)
+
+滑雪缆车站：                   Gornergrat station (0.1 km) Sunnegga station (0.2 km)
+服务设施：
+小提示：
+在不同酒店预订网站，同一房型可能叫不同名字，通常不同价；
+在不同酒店预订网站，同一酒店有的房更便宜，有的房贵。请多甄别。
+游客评论:
+房间里非常温馨宽敞
+一楼的早餐厅 每每使用 都看见阳光洒落满地 非常舒服
+离火车站距离近
+无损他完美的硬体 以及服务品质
+期待明年还有机会入住
+
+                                                                                               —— AndrewHsieh
+
+We recently stayed at The Mirabeau as part of a holiday with Inghams.
+The reception staff were pleasant and helpful, the public areas comfortable and the bedrooms large and well furnished. We were very pleased to be upgraded to a Matterhorn view room.
+The dinners we had were excellent and the buffet breakfasts more than adequate with lots of choice and lovely large glass cups of tea.
+My husband told the receptionist that it was our wedding anniversary and we arrived for dinner to find our table had been decorated and we were offered prosecco "on the house". The owner also came and offered his congratulations.
+My only complaint would be that the Spa area is a nude area. We had been looking forward to using the spa but neither of us feel comfortable with being naked in public!
+We enjoyed Zermatt despite the large number of tourists and would recommend the Museum.
+
+                                                                                                                       —— concretewoman
+去BOOKING查看更多评论

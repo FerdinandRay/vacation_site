@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<URL>
+	<Image_Information>
+		<img_name>Morning scene</img_name>
+		<img_link></img_link>
+		<thumb_image>img/big/big1.jpg</thumb_image>
+	</Image_Information>
+<Image_Information>
+		<img_name> night scene </img_name>
+		<img_link></img_link>
+		<thumb_image>img/big/big2.jpg</thumb_image>
+	</Image_Information>
+<Image_Information>
+		<img_name> Top floor Suite   </img_name>
+		<img_link></img_link>
+		<thumb_image>img/big/big3.jpg</thumb_image>
+	</Image_Information>
+<Image_Information>
+		<img_name> Sauna </img_name>
+		<img_link></img_link>
+		<thumb_image>img/big/big4.jpg</thumb_image>
+	</Image_Information>
+<Image_Information>
+		<img_name> Swimming pool bath & spa </img_name>
+		<img_link></img_link>
+		<thumb_image>img/big/big5.jpg</thumb_image>
+	</Image_Information>
+		<Image_Information>
+		<img_name> Suite A </img_name>
+		<img_link>http://13</img_link>
+		<thumb_image>img/big/big6.jpg</thumb_image>
+	</Image_Information>
+<Image_Information>
+		<img_name> Hotel cuisine </img_name>
+		<img_link></img_link>
+		<thumb_image>img/big/big7.jpg</thumb_image>
+	</Image_Information>
+	
+</URL>

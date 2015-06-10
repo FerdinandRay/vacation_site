@@ -463,6 +463,15 @@
 	position:absolute;
 	bottom:30px;
 	right:60px;
+	display:block;
+	text-decoration:none;
+	font-size:14px;
+	color:#FFF;
+}
+
+#in_con2_text2 a:hover{
+	text-decoration:underline;
+	font-weight:bold;
 }
 
 #in_con2_pic2{
@@ -763,5 +772,399 @@
 	filter: Alpha(Opacity=60);
 }
 
-
 /*end**************matterhorn.html*/
+
+
+/*start****************hotel.html*/
+
+#hotel_main{
+	height:3320px;
+	width:1000px;
+	margin:auto;
+}
+
+#hotel_top{
+	height:3270px;
+	width:1000px;
+	background-color:#FFF;
+	position:relative;
+}
+
+#hotel_content{
+	height:2830px;
+	width:800px;
+	background-color:#FFF;
+	margin:auto;
+	position:relative;
+	top:400px;
+	border-style:solid;
+	border-width:1px;
+	border-color:#666;
+}
+
+#hotel_con1{
+	height:215px;
+	width:800px;
+}
+
+#hotel_con1_top{
+	height:165px;
+	width:800px;
+}
+
+#hotel_con1_top_left{
+	height:165px;
+	width:150px;
+	float:left;
+}
+
+#hotel_con1_top_right{
+	height:165px;
+	width:650px;
+	float:left;
+	position:relative;
+}
+
+#hotel_con1_top_right h2{
+	position:absolute;
+	top:40px;
+}
+
+#hotel_con1_top_right p{
+	font-size:14px;
+	font-family:黑体;
+	position:absolute;
+	top:80px;
+}
+
+#hotel_con1_top_right img{
+	position:absolute;
+	top:75px;
+	left:260px;
+}
+
+#hotel_con1_bottom{
+	height:50px;
+	width:800px;
+	position:relative;
+}
+
+#hotel_con1_bottom p{
+	position:absolute;
+	left:30px;
+	font-size:16px;
+	font-family:黑体;
+}
+
+#hotel_con2{
+	height:360px;
+	width:800px;
+	position:relative;
+}
+
+#hotel_con2_flash{
+	margin:auto;
+}
+
+#hotel_con3{
+	height:190px;
+	width:800px;
+}
+
+#hotel_con3_left{
+	height:160px;
+	width:200px;
+	float:left;
+}
+
+#hotel_con3_right{
+	height:160px;
+	width:600px;
+	float:left;
+	position:relative;
+}
+
+#hotel_con3_right h2{
+	position:absolute;
+	top:30px;
+}
+
+#hotel_con3_right p{
+	width:550px;
+	font-size:16px;
+	font-family:黑体;
+	position:absolute;
+	top:70px;
+	left:20px;
+}
+
+#hotel_con4{
+	height:255px;
+	width:800px;
+	position:relative;
+}
+
+#hotel_con4 img{
+	position:absolute;
+	top:20px;
+	left:30px;
+}
+
+#hotel_con4 h2{
+	position:absolute;
+	top:20px;
+	left:60px;
+}
+
+#hotel_con4 p{
+	width:700px;
+	position:absolute;
+	top:100px;
+	left:30px;
+}
+
+#hotel_con5{
+	height:325px;
+	width:800px;
+	position:relative;
+}
+
+#hotel_con5 img{
+	position:absolute;
+	top:20px;
+	left:30px;
+}
+
+#hotel_con5 h2{
+	position:absolute;
+	top:20px;
+	left:60px;
+}
+
+#hotel_con5 p{
+	width:700px;
+	position:absolute;
+	top:100px;
+	left:30px;
+}
+
+#hotel_con6{
+	height:740px;
+	width:800px;
+	position:relative;
+}
+
+#hotel_con6_head{
+	height:70px;
+	width:800px;
+	position:relative;
+}
+
+#hotel_con6_head img{
+	position:absolute;
+	bottom:0px;
+	left:30px;
+}
+
+
+#hotel_con6_head h2{
+	position:absolute;
+	bottom:0px;
+	left:60px;
+}
+
+#hotel_con6_pic1{
+	height:110px;
+	width:800px;
+	position:relative;
+}
+
+#hotel_con6_pic1 img{
+	position:absolute;
+	left:80px;
+	bottom:10px;
+}
+
+#hotel_con6_line1{
+	position:absolute;
+	bottom:0px;
+	left:50px;
+	border-bottom-color:#000000;
+	border-bottom-style:dashed;
+	border-bottom-width:1px;
+	width:700px;
+}
+
+#hotel_con6_pic2{
+	height:110px;
+	width:800px;
+	position:relative;
+}
+
+#hotel_con6_pic2 img{
+	position:absolute;
+	left:80px;
+	bottom:10px;
+}
+
+#hotel_con6_line2{
+	position:absolute;
+	bottom:0px;
+	left:50px;
+	border-bottom-color:#000000;
+	border-bottom-style:dashed;
+	border-bottom-width:1px;
+	width:700px;
+}
+
+#hotel_con6_pic3{
+	height:110px;
+	width:800px;
+	position:relative;
+}
+
+#hotel_con6_pic3 img{
+	position:absolute;
+	left:80px;
+	bottom:10px;
+}
+
+#hotel_con6_line3{
+	position:absolute;
+	bottom:0px;
+	left:50px;
+	border-bottom-color:#000000;
+	border-bottom-style:dashed;
+	border-bottom-width:1px;
+	width:700px;
+}
+
+#hotel_con6_pic4{
+	height:130px;
+	width:800px;
+	position:relative;
+}
+
+#hotel_con6_pic4 img{
+	position:absolute;
+	left:80px;
+	bottom:10px;
+}
+
+#hotel_con6_line4{
+	position:absolute;
+	bottom:0px;
+	left:50px;
+	border-bottom-color:#000000;
+	border-bottom-style:dashed;
+	border-bottom-width:1px;
+	width:700px;
+}
+
+#hotel_con6_pic5{
+	height:70px;
+	width:800px;
+	position:relative;
+}
+
+#hotel_con6_pic5 img{
+	position:absolute;
+	left:80px;
+	bottom:10px;
+}
+
+#hotel_con6_line5{
+	position:absolute;
+	bottom:0px;
+	left:50px;
+	border-bottom-color:#000000;
+	border-bottom-style:dashed;
+	border-bottom-width:1px;
+	width:700px;
+}
+
+#hotel_con6_pic6{
+	height:60px;
+	width:800px;
+	position:relative;
+}
+
+#hotel_con6_pic6 img{
+	position:absolute;
+	left:80px;
+	bottom:10px;
+}
+
+#hotel_con6_tail{
+	height:100px;
+	width:800px;
+	position:relative;
+}
+
+#hotel_con6_tail p{
+	position:absolute;
+	bottom:30px;
+	right:20px;
+}
+
+#hotel_con6_tail a{
+	display:block;
+	text-decoration:none;
+	font-size:24px;
+	color:#FFF;
+    filter: Alpha(Opacity=60);
+
+}
+
+#hotel_con6_tail a:hover{
+	text-decoration:underline;
+	font-weight:bold;
+	filter: Alpha(Opacity=100);
+}
+
+#hotel_con7{
+	height:145px;
+	width:800px;
+}
+
+#hotel_con7_tip{
+	height:130px;
+	width:600px;
+	margin:auto;
+	position:relative;
+	border-style:solid;
+	border-width:1px;
+	border-color:#666;
+}
+
+#hotel_con7_tip h5{
+	position:absolute;
+	top:20px;
+	left:20px;
+}
+
+#hotel_con7_tip p{
+	position:absolute;
+	top:50px;
+	left:50px;
+	font-size:12px;
+	font-family:宋体;
+}
+
+#hotel_foot{
+	height:50px;
+	width:1000px;
+	position:relative;
+}
+
+#hotel_foot p{
+	font-size:15px;
+	position:absolute;
+	bottom:1px;
+	left:350px;
+	color:#FFF;
+	filter: Alpha(Opacity=60);
+}
+
+
+/*end****************hotel.html*/
